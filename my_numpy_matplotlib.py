@@ -12,6 +12,7 @@ plt.fill_between(x, y1, color='lightblue')
 plt.title('plot of x^3')
 plt.xlabel('x')
 plt.ylabel('f(x)')
+plt.legend()
 plt.show()
 
 #نمودار دوم
